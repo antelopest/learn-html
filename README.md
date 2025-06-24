@@ -36,4 +36,4 @@
 12. HTML шаблоны (`<template>`, `<slot>`, `Shadow DOM`).
 13. Прогрессивные веб-приложения (PWA: манифест, `service worker`).
 14. Модульные структуры (`import maps`, скрипты `type=module`). 
-15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`)
+15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`).
