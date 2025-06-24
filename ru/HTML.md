@@ -4,7 +4,8 @@
 
 ## Основные темы HTML: ##
 
-1. [Структура HTML-документа  (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)](1.%20Базовые%20темы%20HTML/01.%20Структура%20HTML-документа.md)
+1. [Структура HTML-документа  (`<!DOCTYPE>`, `<html>`, `<head>`,
+   `<body>`)](1.%20Базовые%20темы%20HTML/01.%20Структура%20HTML-документа.md)
 2. Текстовые элементы (`<h1>`–`<h6>`, `<p>`, `<span>`, `<strong>`, `<em>`).
 3. Структурные блоки (`<div>`, `<section>`, `<article>`, `<header>`, `<footer>`).
 4. Ссылки и навигация (`<a href>`, якоря, `target`, `rel`).
@@ -22,8 +23,8 @@
 
 ## Продвинутые темы HTML: ##
 
-1. [Custom Elements (Web Components)](2.%20Продвинутые%20темы%20HTML/01.%20Custom%20Elements%20(Web%20Components)/01.%20Custom%20Elements%20(Web%20Components).md)
-2. Использование data-* атрибутов (для передачи JS-данных).
+1. [Кастомные компоненты (Web Components)](2.%20Продвинутые%20темы%20HTML/01.%20Custom%20Elements%20(Web%20Components)/01.%20Custom%20Elements%20(Web%20Components).md)
+2. [Использование data-* атрибутов для передачи JS-данных](2.%20Продвинутые%20темы%20HTML/02.%20Use%20data-*%20attributes%20for%20JS/02.Use%20data-*%20attributes%20for%20JS.md)
 3. Семантическая структура и логика SEO.
 4. Поддержка адаптивного и темного режима (prefers-color-scheme).
 5. Контроль загрузки ресурсов (`loading="lazy"`, `fetchpriority`).
@@ -37,6 +38,5 @@
 13. Прогрессивные веб-приложения (PWA: манифест, `service worker`).
 14. Модульные структуры (`import maps`, скрипты `type=module`).
 15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`).
-
 
 Рассмотрим следующую тему: Использование data-* атрибутов (для передачи JS-данных) 
