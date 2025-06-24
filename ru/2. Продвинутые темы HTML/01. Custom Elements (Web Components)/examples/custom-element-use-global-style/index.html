@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simple Custom Component</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Custom Element with Global Style</h1>
+
+<h3>Example №1</h3>
+<p>Use Global Style without Shadow DOM</p>
+
+<user-card firstName="Simon"
+           lastName="Belenko"
+           job="Frontend Developer">
+</user-card>
+
+<h3>Example №2</h3>
+<p>Use Global Variables CSS in Shadow DOM</p>
+
+<job-card job="Web Developer"
+          experience="7">
+</job-card>
+
+
+<script type="module" src="./script.js" defer></script>
+</body>
+</html>
