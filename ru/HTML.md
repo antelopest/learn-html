@@ -12,7 +12,7 @@
 4. Ссылки и навигация (`<a href>`, якоря, `target`, `rel`).
 5. Изображения (`<img>`, `alt`, `srcset`, `picture`).
 6. Списки (`<ul>`, `<ol>`, `<li>`, `вложенные списки`).
-7. Формы (`<form>`, `<input>`,` <textarea>`, `<select>`, `<label>`, `name`, `value`).
+7. [Формы (`<form>`, `<input>`,` <textarea>`, `<select>`, `<label>`, `name`, `value`)](1.%20Базовые%20темы%20HTML/07.%20Формы.md)
 8. Управление формами (`required`, `placeholder`, `type`, `disabled`, `checked`).
 9. Атрибуты (`id`, `class`, `style`, `title`, `data-*`).
 10. Мультимедиа (`<video>`, `<audio>`, `<source>`, `<track>`).
