@@ -16,7 +16,7 @@
 8. Управление формами (`required`, `placeholder`, `type`, `disabled`, `checked`).
 9. [Атрибуты (`id`, `class`, `style`, `title`, `data-*`)](1.%20Базовые%20темы%20HTML/09.%20Атрибуты.md)
 10. [Мультимедиа (`<video>`, `<audio>`, `<source>`, `<track>`)](1.%20Базовые%20темы%20HTML/10.%20Мультимедиа.md)
-11. Семантика (разница между `<div>` и `<section>`, `<main>`, `<nav>`).
+11. [Семантика (разница между `<div>` и `<section>`, `<main>`, `<nav>`)](1.%20Базовые%20темы%20HTML/11.%20Семантика.md)
 12. Основы доступности (`alt`-текст, `label`, `aria-*`).
 13. Метаданные (`<meta charset>`, `<meta name="viewport">`, SEO-теги).
 14. Скрипты и стили (`<script>`, `defer`, `type=module`, `<link rel="stylesheet">`).
