@@ -14,7 +14,7 @@
 6. Списки (`<ul>`, `<ol>`, `<li>`, `вложенные списки`).
 7. [Формы (`<form>`, `<input>`,` <textarea>`, `<select>`, `<label>`, `name`, `value`)](1.%20Базовые%20темы%20HTML/07.%20Формы.md)
 8. Управление формами (`required`, `placeholder`, `type`, `disabled`, `checked`).
-9. Атрибуты (`id`, `class`, `style`, `title`, `data-*`).
+9. [Атрибуты (`id`, `class`, `style`, `title`, `data-*`)](1.%20Базовые%20темы%20HTML/09.%20Атрибуты.md)
 10. [Мультимедиа (`<video>`, `<audio>`, `<source>`, `<track>`)](1.%20Базовые%20темы%20HTML/10.%20Мультимедиа.md)
 11. Семантика (разница между `<div>` и `<section>`, `<main>`, `<nav>`).
 12. Основы доступности (`alt`-текст, `label`, `aria-*`).
