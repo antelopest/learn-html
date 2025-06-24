@@ -1,11 +1,11 @@
 # HTML #
 
-Разбор основных и продвинутых тем про HTML.
+Разбор основных и продвинутых тем по HTML.
 
 ## Основные темы HTML: ##
 
 1. Структура HTML-документа (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`).
-2. Текстовые элементы (`<h1>``–<h6>`, `<p>`, `<span>`, `<strong>`, `<em>`).
+2. Текстовые элементы (`<h1>`–`<h6>`, `<p>`, `<span>`, `<strong>`, `<em>`).
 3. Структурные блоки (`<div>`, `<section>`, `<article>`, `<header>`, `<footer>`).
 4. Ссылки и навигация (`<a href>`, якоря, `target`, `rel`).
 5. Изображения (`<img>`, `alt`, `srcset`, `picture`).
@@ -21,3 +21,19 @@
 15. Комментарии (`<!-- ... -->`).
 
 ## Продвинутые темы HTML: ##
+
+1. Custom Elements (Web Components: customElements.define()).
+2. Использование data-* атрибутов (для передачи JS-данных). 
+3. Семантическая структура и логика SEO. 
+4. Поддержка адаптивного и темного режима (prefers-color-scheme). 
+5. Контроль загрузки ресурсов (`loading="lazy"`, `fetchpriority`).
+6. Безопасность: `rel="noopener"`, `sandbox`, `Content-Security-Policy`. 
+7. Микроразметка (`Schema.org`: `itemprop`, `itemscope`, `itemtype`).
+8. SVG и inline-графика в HTML. 
+9. Валидация форм: `pattern`, `min`, `max`, `novalidate`, `constraint API`. 
+10. Работа с API в HTML5 (например, `geolocation`, `webstorage`). 
+11. Адаптивные изображения (`<picture>`, `srcset`, `sizes`). 
+12. HTML шаблоны (`<template>`, `<slot>`, `Shadow DOM`).
+13. Прогрессивные веб-приложения (PWA: манифест, `service worker`).
+14. Модульные структуры (`import maps`, скрипты `type=module`). 
+15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`)
