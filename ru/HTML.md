@@ -23,7 +23,7 @@
 
 ## Продвинутые темы HTML: ##
 
-1. [Кастомные компоненты (Web Components)](2.%20Продвинутые%20темы%20HTML/01.%20Custom%20Elements%20(Web%20Components)/01.%20Custom%20Elements%20(Web%20Components).md)
+1. [Кастомные элементы (Web Components)](2.%20Продвинутые%20темы%20HTML/01.%20Custom%20Elements%20(Web%20Components)/01.%20Custom%20Elements%20(Web%20Components).md)
 2. [Использование data-* атрибутов для передачи JS-данных](2.%20Продвинутые%20темы%20HTML/02.%20Use%20data-*%20attributes%20for%20JS/02.Use%20data-*%20attributes%20for%20JS.md)
 3. Семантическая структура и логика SEO.
 4. Поддержка адаптивного и темного режима (prefers-color-scheme).
