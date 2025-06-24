@@ -4,7 +4,7 @@
 
 ## Основные темы HTML: ##
 
-1. [Структура HTML-документа  (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)](1.%20Базовые%20темы%20HTML/01.%20Структура%20HTML-документа.md).
+1. [Структура HTML-документа  (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)](1.%20Базовые%20темы%20HTML/01.%20Структура%20HTML-документа.md)
 2. Текстовые элементы (`<h1>`–`<h6>`, `<p>`, `<span>`, `<strong>`, `<em>`).
 3. Структурные блоки (`<div>`, `<section>`, `<article>`, `<header>`, `<footer>`).
 4. Ссылки и навигация (`<a href>`, якоря, `target`, `rel`).
@@ -22,7 +22,7 @@
 
 ## Продвинутые темы HTML: ##
 
-1. Custom Elements (Web Components: customElements.define()).
+1. [Custom Elements (Web Components): customElements.define())](2.%20Продвинутые%20темы%20HTML/01.%20Custom%20Elements%20(Web%20Components)/01.%20Custom%20Elements%20(Web%20Components).md)
 2. Использование data-* атрибутов (для передачи JS-данных).
 3. Семантическая структура и логика SEO.
 4. Поддержка адаптивного и темного режима (prefers-color-scheme).
