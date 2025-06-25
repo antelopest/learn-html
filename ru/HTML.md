@@ -35,7 +35,7 @@
 9. Валидация форм: `pattern`, `min`, `max`, `novalidate`, `constraint API`.
 10. Работа с API в HTML5 (например, `geolocation`, `webstorage`).
 11. Адаптивные изображения (`<picture>`, `srcset`, `sizes`).
-12. HTML шаблоны (`<template>`, `<slot>`, `Shadow DOM`).
+12. [HTML шаблоны (`<template>`, `<slot>`, `Shadow DOM`)](2.%20Продвинутые%20темы%20HTML/12.%20HTML%20шаблоны/12.%20HTML%20шаблоны.md)
 13. Прогрессивные веб-приложения (PWA: манифест, `service worker`).
 14. Модульные структуры (`import maps`, скрипты `type=module`).
 15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`).
