@@ -44,7 +44,6 @@
 14. Модульные структуры (`import maps`, скрипты `type=module`).
 15. A/B-тестирование и экспериментальные элементы (`<dialog>`, `<details>`, `<summary>`).
 
-[//]: # (сделать компонент <responsive-img> c scrset и loading="lazy"
+[//]: # (сделать компонент <responsive-img> c scrset и loading="lazy")
 [//]: # (собрать picture под светлую и темную тему)
-
 [//]: # (пример protected Routes, реализовать авторизацию)
