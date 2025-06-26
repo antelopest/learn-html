@@ -34,7 +34,7 @@
 5. Контроль загрузки ресурсов (`loading="lazy"`, `fetchpriority`).
 6. Безопасность: `rel="noopener"`, `sandbox`, `Content-Security-Policy`.
 7. Микроразметка (`Schema.org`: `itemprop`, `itemscope`, `itemtype`).
-8. SVG и inline-графика в HTML.
+8. [SVG и inline-графика в HTML](2.%20Продвинутые%20темы%20HTML/08.%20SVG%20и%20inline-графика%20в%20HTML/08.%20SVG%20и%20inline-графика%20в%20HTML.md)
 9. Валидация форм: `pattern`, `min`, `max`, `novalidate`, `constraint API`.
 10. Работа с API в HTML5 (например, `geolocation`, `webstorage`).
 11. Адаптивные изображения (`<picture>`, `srcset`, `sizes`).
